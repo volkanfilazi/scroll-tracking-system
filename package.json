@@ -1,5 +1,6 @@
 {
   "name": "scroll-tracking-system",
+  "license": "MIT",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +11,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.1.2",
+    "volki-button": "^0.0.3",
     "vue": "^3.2.47"
   },
   "devDependencies": {
